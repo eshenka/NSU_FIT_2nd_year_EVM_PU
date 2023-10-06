@@ -1,2 +1,3 @@
 # NSU_FIT_2year_EVM_PU
-Reports on laboratory works done during the course "Electronic computers and peripheral devices" 2nd year FIT at Novosibirsk State University
+В данном репозитории хранятся мои отчёты на лабораторные работы, сделанные во время курса "ЭВМ и ПУ".
+После сдачи в каждый документ вносились необходимые правки. Также были добавлены доп. вопросы, которые преподаватель задавал при защите лабораторной работы.
